@@ -1,0 +1,22 @@
+PODS:
+  - certificate_pinning_httpclient (0.0.1):
+    - Flutter
+  - Flutter (1.0.0)
+
+DEPENDENCIES:
+  - certificate_pinning_httpclient (from `.symlinks/plugins/certificate_pinning_httpclient/ios`)
+  - Flutter (from `Flutter`)
+
+EXTERNAL SOURCES:
+  certificate_pinning_httpclient:
+    :path: ".symlinks/plugins/certificate_pinning_httpclient/ios"
+  Flutter:
+    :path: Flutter
+
+SPEC CHECKSUMS:
+  certificate_pinning_httpclient: 8f384a430361219d3b1ac85a6b4a99ad99885931
+  Flutter: e0871f40cf51350855a761d2e70bf5af5b9b5de7
+
+PODFILE CHECKSUM: 819463e6a0290f5a72f145ba7cde16e8b6ef0796
+
+COCOAPODS: 1.15.2
